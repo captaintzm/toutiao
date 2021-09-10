@@ -26,7 +26,3 @@ export const setItem = (name, value) => {
 export const removeItem = name => {
   window.localStorage.removeItem(name)
 }
-
-var wj ={
-  name:'王晶'
-}
